@@ -1,0 +1,28 @@
+hi {
+    margin-top: 0px;
+    margin-bottom: auto;
+text-align: center;
+background-image: url(https://static1.squarespace.com/static/56caa2f340261dffb29a3a3f/58da9f2e579fb3dff050b025/58da9f69d2b857b0a83d6dab/1490723118809/20170323-DSC01366.jpg?format=2500w);
+background-repeat: no-repeat;
+background-position: center;
+}
+
+.jumbotron {
+    padding: 6rem 1rem;
+}
+
+.background1 {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnm6HKDDrqMOhphBERizTEzAzR_FnZGud-W6YHMs4azpVY9QSmM10t4MANmw&s);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+main {
+    background-image: url(https://mail.google.com/mail/u/0?ui=2&ik=d7c92bd7e1&attid=0.1&permmsgid=msg-f:1650418898377303507&th=16e7773e685ee5d3&view=fimg&sz=s0-l75-ft&attbid=ANGjdJ8Akcd8QR8ZJzO0Sf9gKEi--TllAstI_ATLKIjH6rox6O84BIDXTYBhKeRFDsqnhGdKwaeXldpWWWaDs5pjAYxg8t9sYF-P7eqUfN9YZJUkS7wv3F6DOq5BcJI&disp=emb&realattid=16e77739d253bd232241);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.logo {
+    
+}
